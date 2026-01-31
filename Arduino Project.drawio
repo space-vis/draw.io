@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.3.6">
   <diagram name="Page-1" id="hlo82dkxZXxjaFcGOUuB">
-    <mxGraphModel dx="1569" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1324" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,6 +135,21 @@
         </mxCell>
         <mxCell id="X8kau7KJJ8c8T4sDzDGR-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 5px; line-height: 40%;&quot;&gt;TX: data van barcode/scanner + hele webapp, RX: request om te scannen&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="290" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-43" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_1;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="15" width="20" x="530" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-45" edge="1" parent="1" source="X8kau7KJJ8c8T4sDzDGR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="X8kau7KJJ8c8T4sDzDGR-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-46" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_1;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="15" width="20" x="550" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-48" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_1;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="15" width="20" x="570" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;RYG LEDjes&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="533" y="294" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
