@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.3.6">
   <diagram name="Page-1" id="hlo82dkxZXxjaFcGOUuB">
-    <mxGraphModel dx="1522" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1756" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
             <mxPoint x="360" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X8kau7KJJ8c8T4sDzDGR-27" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" value="&lt;div&gt;Web app&amp;nbsp;&lt;/div&gt;&lt;div&gt;(hoe constant updaten?&lt;/div&gt;" vertex="1">
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-27" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" value="&lt;div&gt;Web app&amp;nbsp;&lt;/div&gt;&lt;div&gt;(hoe constant updaten?)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="200" y="290" as="geometry" />
         </mxCell>
         <mxCell id="X8kau7KJJ8c8T4sDzDGR-30" edge="1" parent="1" source="X8kau7KJJ8c8T4sDzDGR-32" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="X8kau7KJJ8c8T4sDzDGR-27" value="">
@@ -109,7 +109,7 @@
             <mxPoint x="170" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X8kau7KJJ8c8T4sDzDGR-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Raspberry-esque thing (with monitor and keyboard)" vertex="1">
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Raspberry-esque&amp;nbsp; ding (met monitor en keyboard)" vertex="1">
           <mxGeometry height="60" width="120" x="-10" y="300" as="geometry" />
         </mxCell>
         <mxCell id="X8kau7KJJ8c8T4sDzDGR-34" edge="1" parent="1" source="X8kau7KJJ8c8T4sDzDGR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="X8kau7KJJ8c8T4sDzDGR-1">
@@ -117,6 +117,27 @@
         </mxCell>
         <mxCell id="X8kau7KJJ8c8T4sDzDGR-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Button&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="520" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;(voor starten scanner en camera)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-36" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/sql_server.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="38.5" x="80" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-37" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="X8kau7KJJ8c8T4sDzDGR-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="300" as="sourcePoint" />
+            <mxPoint x="90" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-38" edge="1" parent="1" source="X8kau7KJJ8c8T4sDzDGR-36" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.045;entryY=0.109;entryDx=0;entryDy=0;entryPerimeter=0;" target="X8kau7KJJ8c8T4sDzDGR-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="230" as="sourcePoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SQL server voor opslaan naam/num" vertex="1">
+          <mxGeometry height="30" width="110.75" x="43.870000000000005" y="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
