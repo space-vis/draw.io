@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X8kau7KJJ8c8T4sDzDGR-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;GND +&lt;/div&gt;&lt;div&gt;VCC&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="490.00000000000006" y="400" as="geometry" />
+          <mxGeometry height="30" width="60" x="470.00000000000006" y="400" as="geometry" />
         </mxCell>
         <mxCell id="X8kau7KJJ8c8T4sDzDGR-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D12/RX" vertex="1">
           <mxGeometry height="30" width="60" x="310" y="360" as="geometry" />
