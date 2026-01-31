@@ -7,7 +7,7 @@
         <mxCell id="X8kau7KJJ8c8T4sDzDGR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arduino" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="X8kau7KJJ8c8T4sDzDGR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI Camera" vertex="1">
+        <mxCell id="X8kau7KJJ8c8T4sDzDGR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;HUSKYLENS&amp;nbsp;&lt;/div&gt;&lt;div&gt;AI Camera&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="130" as="geometry" />
         </mxCell>
         <mxCell id="X8kau7KJJ8c8T4sDzDGR-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D10/RX" vertex="1">
